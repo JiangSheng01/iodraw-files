@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
+  <diagram id="T4u_gnAZ4_Sf4D52hB_R" name="第 1 页">
+    <mxGraphModel dx="2066" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P1bDMCjabX7O5sK-ypDu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;verticalAlign=middle;" parent="1" source="P1bDMCjabX7O5sK-ypDu-1" target="P1bDMCjabX7O5sK-ypDu-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bDMCjabX7O5sK-ypDu-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;对学生作答区域图像进行预处理，得到处理之后的学生作答区域图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fontFamily=宋体;fontSize=16;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="320" y="110" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bDMCjabX7O5sK-ypDu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;verticalAlign=middle;" parent="1" source="P1bDMCjabX7O5sK-ypDu-2" target="P1bDMCjabX7O5sK-ypDu-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bDMCjabX7O5sK-ypDu-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;在处理之后的学生作答区域图像上，采用基于图像处理规则的方法即通过选择多个初始点并拓展得到每一条连线，再通过合并连通的连线、删除多余的连线，得到学生作答的每一条连线，包括直线和不同形状的曲线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqz1wo7Ou9rPqEcGrH-a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;verticalAlign=middle;" parent="1" source="P1bDMCjabX7O5sK-ypDu-3" target="Nqz1wo7Ou9rPqEcGrH-a-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bDMCjabX7O5sK-ypDu-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;将得到的学生作答的每一条连线两个端点和连线对象区域图像进行匹配，结合连线对象的位置和编号得到多个连线对，作为学生的作答结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="320" y="420" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqz1wo7Ou9rPqEcGrH-a-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;将学生作答结果和正确答案进行对比，输出学生作答正确的连线对和连线错误的连线对&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="320" y="580" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HqFfmjY7rtnBx39Jka86-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;verticalAlign=middle;" parent="1" source="HqFfmjY7rtnBx39Jka86-1" target="P1bDMCjabX7O5sK-ypDu-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HqFfmjY7rtnBx39Jka86-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;获取学生作答的连线题图像、连线对象区域图像、连线对象的位置和编号、学生作答区域图像、连线正确答案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fontFamily=宋体;fontSize=16;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="315" y="-30" width="280" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
