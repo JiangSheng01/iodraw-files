@@ -13,7 +13,7 @@
         <mxCell id="lpbwvyuWf6pOBe7UaIty-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1940" y="350" width="510" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="lpbwvyuWf6pOBe7UaIty-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="lpbwvyuWf6pOBe7UaIty-16">
+        <mxCell id="lpbwvyuWf6pOBe7UaIty-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="lpbwvyuWf6pOBe7UaIty-16">
           <mxGeometry width="510" height="210" as="geometry" />
         </mxCell>
         <mxCell id="lpbwvyuWf6pOBe7UaIty-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="lpbwvyuWf6pOBe7UaIty-16" source="lpbwvyuWf6pOBe7UaIty-13" target="lpbwvyuWf6pOBe7UaIty-13">
@@ -21,6 +21,9 @@
             <mxPoint x="40" y="440" as="sourcePoint" />
             <mxPoint x="90" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lpbwvyuWf6pOBe7UaIty-17" value="" style="shape=stencil(vVbbcoMgEP2WPuxM+9AOgSaBRyH4H9bSxqnVDNrb33eBJNV4mcQknXEc2JXDOXu4CExV62RjgJI1sBVQOiME39j/Ougn1cakdQh+JjZLnnITMlVtyzfzlT3XW4ysWBub1S7LNJAIv3EPU2lZFAiSlUXVyjTyCJZkBY4l3wFsO/1Pq7dB/HdTG7slGaJA4+NhH+bXAZ5diW8bdsf+4nwvB9xmPLuWcRcDnk2HZQojQ4ubqackfXu15Ufx3Etmk7iN00ns0jf3966hOcg5yCXoJXAKUoCOQSoQEWgfjxagH0Fy4JH7OFqCoC4lFPBFI7J0Q/ijH4Up4hqY4hJnwamGibyXn2bI3l23v+CHUo7h69lh8E8lfiyBa0S4RTxFyd0WjGNpyC6M0TCEK59beXxE0040JZ7LqM7Eptiw321l9kDp2PF0XBUa4pGcM3ThdMhgjQDJnFkyAhkPV6FbBH9ih/iozDwrGnbuz/kpSnD22NOd6meDc48W+s+eHtZiYjH2tmINtNuzbutJ7++orX+ie6uB7zO93feP3q0RiDloAZxBxE9epy3enQ17up5z1YSzZ6o9Y1roeVJOXmhzX3wBAiWtvCRsxM2tMcolzcvKDM7nb7XO5eSjAzcaUy+lNSNX3UuW5+F3sWdWj9wB8NHwk+oDvw==);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1400" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
