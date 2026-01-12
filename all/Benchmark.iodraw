@@ -10,10 +10,10 @@
         <mxCell id="lpbwvyuWf6pOBe7UaIty-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry y="130" width="1500" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="lpbwvyuWf6pOBe7UaIty-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="lpbwvyuWf6pOBe7UaIty-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="190" width="310" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="lpbwvyuWf6pOBe7UaIty-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=0;" vertex="1" parent="1">
+        <mxCell id="lpbwvyuWf6pOBe7UaIty-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="827" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
