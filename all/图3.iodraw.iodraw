@@ -119,7 +119,10 @@
           <mxGeometry x="510" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-34" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1110.04" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-35" value="行列式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1045.02" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
