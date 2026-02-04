@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;识别控制模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="7640" y="870" width="400" height="150" as="geometry" />
+          <mxGeometry x="7640" y="870" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18.6667px;&quot;&gt;歧义降低模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="7640" y="1090" width="400" height="150" as="geometry" />
