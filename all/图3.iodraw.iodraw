@@ -76,8 +76,11 @@
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-22" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="510" y="899" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-23" value="短除法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="610" y="520.19" width="110" height="50" as="geometry" />
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-23" value="竖式计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="585" y="794.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-24" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="750" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
