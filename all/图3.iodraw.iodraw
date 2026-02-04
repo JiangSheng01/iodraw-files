@@ -29,10 +29,10 @@
           <mxGeometry x="510" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-14" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="740" y="627" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-15" value="短除法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="570" y="510.19" width="110" height="50" as="geometry" />
+          <mxGeometry x="600" y="510.19" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
