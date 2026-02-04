@@ -1,0 +1,31 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="v0IYglDMK0RLlaqrQUxG">
+    <mxGraphModel dx="-5377" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-1" target="mvVbGv8ADasiub5G5ZWD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;构建图像&lt;span lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;结构类型&lt;span lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;结构指示信息的三元关系知识库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="7640" y="520" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-2" target="mvVbGv8ADasiub5G5ZWD-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;识别模型根据知识库中的“图像&lt;span lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;结构类型”关系对，学习其中的图像特征和结构类型的对应关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="7640" y="690" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-3" target="mvVbGv8ADasiub5G5ZWD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;识别模型根据需识别的图像特征得到该图像的结构类型，并根据该结构类型获取结构指示信息，在该结构指示信息的约束下，生成初步的公式表示序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="7640" y="870" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;在得到初步的公式表示序列后，通过一致性判断的方式对某一位置存在多个形态相似或表示形式相近的候选符号进行歧义降低，生成新的公式表示序列，并将其作为最终识别结果输出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="7640" y="1090" width="400" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
