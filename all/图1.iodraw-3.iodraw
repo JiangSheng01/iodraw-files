@@ -16,7 +16,7 @@
         <mxCell id="mvVbGv8ADasiub5G5ZWD-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;根据所述结构指示信息，对公式识别过程进行引导控制，生成初步的公式表示序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="7460" y="1169" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mvVbGv8ADasiub5G5ZWD-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;根据所述结构指示信息，对公式识别过程进行引导控制，生成初步的公式表示序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-5" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:等线;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;在得到初步的公式表示序列后，对所述候选符号或符号组合进行筛选或调整，生成新的公式表示序列，并将其作为最终识别结果输出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="7480" y="1360" width="300" height="110" as="geometry" />
         </mxCell>
       </root>
