@@ -25,7 +25,7 @@
         <mxCell id="mvVbGv8ADasiub5G5ZWD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-4" target="mvVbGv8ADasiub5G5ZWD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mvVbGv8ADasiub5G5ZWD-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;根据所述结构指示信息，对公式识别过程进行引导控制，生成初步的公式表示序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;在得到初步的公式表示序列后，通过一致性判断的方式对某一位置存在多个形态相似或表示形式相近的候选符号进行歧义降低，生成新的公式表示序列，并将其作为最终识别结果输出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="7640" y="1070" width="350" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;在得到初步的公式表示序列后，对所述候选符号或符号组合进行筛选或调整，生成新的公式表示序列，并将其作为最终识别结果输出&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
