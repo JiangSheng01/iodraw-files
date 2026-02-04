@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;识别模型根据知识库中的“图像&lt;span lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;结构类型”关系对，学习其中的图像特征和结构类型的对应关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="7640" y="690" width="350" height="120" as="geometry" />
+          <mxGeometry x="7640" y="690" width="350" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-3" target="mvVbGv8ADasiub5G5ZWD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
