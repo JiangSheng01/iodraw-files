@@ -121,8 +121,11 @@
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-34" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="740" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-35" value="行列式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1045.02" width="110" height="50" as="geometry" />
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-35" value="方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1256.57" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-36" value="识别时需要需要识别行列数量，严格按照网格位置识别，两旁竖线使用\begin{vmatrix} \end{vmatrix}表示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1000.02" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
