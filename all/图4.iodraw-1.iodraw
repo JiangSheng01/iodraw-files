@@ -7,8 +7,8 @@
         <mxCell id="mvVbGv8ADasiub5G5ZWD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-1" target="mvVbGv8ADasiub5G5ZWD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mvVbGv8ADasiub5G5ZWD-1" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:等线;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;特征提取模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="7640" y="520" width="150" height="100" as="geometry" />
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;特征提取模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="7640" y="520" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mvVbGv8ADasiub5G5ZWD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mvVbGv8ADasiub5G5ZWD-2" target="mvVbGv8ADasiub5G5ZWD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
