@@ -34,7 +34,7 @@
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-15" value="短除法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="600" y="510.19" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-16" value="识别时按行识别，每一行若干被除数和一个除数，被除数之间使用空格分隔" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-16" value="识别时按行识别，每一行若干被除数和一个除数，被除数之间使用空格分隔" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="780" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
