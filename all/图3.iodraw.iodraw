@@ -124,8 +124,8 @@
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-35" value="方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="600" y="1256.57" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-37" value="识别时按行识别，每一行一个操作数，部分行含操作符，行间需按照右对齐进行缩进" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="820" y="764.5" width="240" height="130" as="geometry" />
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-37" value="识别时按行识别，行间需要对齐，左大括号使用\begin{cases} \end{cases}表示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1216.57" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
