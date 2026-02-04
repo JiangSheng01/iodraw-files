@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mvVbGv8ADasiub5G5ZWD-1" value="&lt;p style=&quot;text-align: left; text-indent: 28pt; font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-1" value="&lt;span style=&quot;font-family: 宋体; text-align: left; text-indent: 37.3333px;&quot;&gt;获取包含手写公式的图像，并对获取的手写公式图像进行预处理操作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="7460" y="585" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mvVbGv8ADasiub5G5ZWD-2" value="&lt;span style=&quot;font-family: 宋体; text-align: left; text-indent: 37.3333px;&quot;&gt;获取包含手写公式的图像，并对获取的手写公式图像进行预处理操作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="595" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
