@@ -100,8 +100,11 @@
         <mxCell id="AjpSuiOEZuKzOkUBz9HV-28" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="740" y="1090.04" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-30" value="竖式计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1035.02" width="140" height="50" as="geometry" />
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-30" value="行列式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1035.02" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-31" value="识别时按行识别，每一行一个操作数，部分行含操作符，行间需按照右对齐进行缩进" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="810" y="995.02" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
