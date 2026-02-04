@@ -25,8 +25,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjpSuiOEZuKzOkUBz9HV-13" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;" vertex="1" parent="1">
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-13" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="510" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjpSuiOEZuKzOkUBz9HV-14" value="，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
