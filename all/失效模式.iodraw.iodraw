@@ -11,7 +11,10 @@
           <mxGeometry x="800" y="-210" width="770" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-6" value="Structural instability also triggers systematic instruction-following failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="140" width="800" height="40" as="geometry" />
+          <mxGeometry x="1770" y="-210" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="-102" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
