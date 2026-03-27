@@ -121,8 +121,8 @@
         <mxCell id="4myFzHKkVeaHecfF3S7_-50" value="\begin{aligned} &amp;amp; 1 0 \div 0 . 2 \div 2 5 \\ = &amp;amp; 1 0 \div ( 0 . 2 \times 2 . 5 ) \\ = &amp;amp; 1 0 \div 0 . 5 \\ = &amp;amp; 2 0 \end{aligned}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3160" y="550" width="1230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4myFzHKkVeaHecfF3S7_-52" value="M2E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3190" y="470" width="110" height="60" as="geometry" />
+        <mxCell id="4myFzHKkVeaHecfF3S7_-52" value="HMER-Bench" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="3452" y="470" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
