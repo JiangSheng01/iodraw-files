@@ -13,8 +13,8 @@
         <mxCell id="fAt28AO5mf6FKWXcX9or-6" value="Structural instability also triggers systematic instruction-following failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1770" y="-210" width="800" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAt28AO5mf6FKWXcX9or-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="-102" width="50" height="30" as="geometry" />
+        <mxCell id="fAt28AO5mf6FKWXcX9or-7" value="The given mathematical expression can be transcribed into LaTeX using the custom syntax as follows: \begin{aligned} \frac{2}{\sin\frac{3\pi}{4}} &amp;amp;= \frac{\sqrt{2}}{\sinC} \end{aligned} Please note that the LaTeX transcription follows the specified syntax, ensuring proper alignment and formatting of the mathematical elements.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="50" width="1740" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
