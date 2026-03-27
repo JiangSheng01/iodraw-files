@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fAt28AO5mf6FKWXcX9or-1" value="Structural uncertainty is the primary source of transcription failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="28" width="380" height="30" as="geometry" />
+        <mxCell id="fAt28AO5mf6FKWXcX9or-1" value="Structural uncertainty is the primary source of transcription failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="28" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
