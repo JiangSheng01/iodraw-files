@@ -7,8 +7,8 @@
         <mxCell id="fAt28AO5mf6FKWXcX9or-1" value="Structural uncertainty is the primary source of transcription failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-185" y="-230" width="730" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAt28AO5mf6FKWXcX9or-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="-112" width="50" height="30" as="geometry" />
+        <mxCell id="fAt28AO5mf6FKWXcX9or-2" value="Models lack the ability to maintain stable global 2D structures in complex expressions." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-117" width="940" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
