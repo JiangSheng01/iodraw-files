@@ -20,7 +20,7 @@
           <mxGeometry x="1880" y="-70" width="134" height="93" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\begin{aligned}&lt;/span&gt;&lt;/div&gt;&amp;amp; = \frac { - 3 \pm \sqrt { 2 5 } } { 2 \times 2 } &lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{aligned}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-85" width="490" height="100" as="geometry" />
+          <mxGeometry x="-70" y="-100" width="490" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-12" value="\( \begin{array}{c} &lt;br&gt;\overrightarrow{A_{1}A}&lt;br&gt;=(C\cdot\overrightarrow{C_{1}B}&lt;br&gt;=(-3,0,10)\cdot\overrightarrow{C_{1}&lt;br&gt;\overrightarrow{C_{1}D}}&lt;br&gt;=(-3,0,10) &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{array} \)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="120" y="81" width="410" height="220" as="geometry" />
