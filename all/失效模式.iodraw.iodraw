@@ -185,7 +185,19 @@
           <mxGeometry x="2230" y="382" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-68" value="&lt;b style=&quot;font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;; font-size: 30px; font-style: italic;&quot;&gt;Prediction：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="79.99999999999999" y="-90" width="210" height="50" as="geometry" />
+          <mxGeometry x="2900" y="447.5" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-69" value="&lt;b style=&quot;font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;; font-size: 30px; font-style: italic;&quot;&gt;Prediction：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89.99999999999999" y="-80" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-70" value="&lt;b style=&quot;font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;; font-size: 30px; font-style: italic;&quot;&gt;Prediction：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="50" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-71" value="&lt;b style=&quot;font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;; font-size: 30px; font-style: italic;&quot;&gt;Prediction：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1963" y="153" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-72" value="&lt;b style=&quot;font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;; font-size: 30px; font-style: italic;&quot;&gt;Prediction：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="420" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
