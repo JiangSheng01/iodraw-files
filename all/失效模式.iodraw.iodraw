@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fAt28AO5mf6FKWXcX9or-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="990" width="1420" height="390" as="geometry" />
+          <mxGeometry x="-640" y="990" width="1420" height="400" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-2" value="&lt;b&gt;Models lack the ability to maintain stable global 2D structures in complex expressions.&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="-665" y="-230" width="1470" height="60" as="geometry" />
