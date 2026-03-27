@@ -20,7 +20,7 @@
           <mxGeometry x="1880" y="-70" width="134" height="93" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-10" value="&lt;div style=&quot;&quot;&gt;\begin{aligned} &lt;br&gt;\text { I I I } \quad \therefore T &amp;amp; = \frac { 2 \pi } { \omega } \\ &lt;br&gt;\omega &amp;amp; = \frac { 2 \pi } { T } = \frac { 2 \pi } { \pi } = 2 &lt;br&gt;\end{aligned}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="35" y="-144.5" width="650" height="130" as="geometry" />
+          <mxGeometry x="40" y="-143" width="650" height="130" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-12" value="\( \begin{array}{c} &lt;br&gt;\overrightarrow{A_{1}A}&lt;br&gt;=(C\cdot\overrightarrow{C_{1}B}&lt;br&gt;=(-3,0,10)\cdot\overrightarrow{C_{1}&lt;br&gt;\overrightarrow{C_{1}D}}&lt;br&gt;=(-3,0,10) &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{array} \)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="110" y="180" width="410" height="220" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-44" value="&lt;span style=&quot;font-size: 30px; font-family: &amp;quot;阿里巴巴普惠体 3.0 55 Regular&amp;quot;;&quot;&gt;&lt;b&gt;Rendered Prediction：&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-460" y="40" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAt28AO5mf6FKWXcX9or-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="-32" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
