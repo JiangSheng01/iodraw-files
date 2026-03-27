@@ -25,8 +25,8 @@
         <mxCell id="fAt28AO5mf6FKWXcX9or-2" value="&lt;b&gt;Models lack the ability to maintain stable global 2D structures in complex expressions.&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="-665" y="-230" width="1470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fAt28AO5mf6FKWXcX9or-3" value="Local symbol correctness does not guarantee global semantic validity." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-230" width="770" height="40" as="geometry" />
+        <mxCell id="fAt28AO5mf6FKWXcX9or-3" value="Local symbol correctness does not guarantee global semantic validity." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-240" width="1110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAt28AO5mf6FKWXcX9or-6" value="Structural instability also triggers systematic instruction-following failures." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1770" y="-210" width="800" height="40" as="geometry" />
