@@ -134,7 +134,7 @@
           <mxGeometry x="-170" y="1169" width="1070" height="351" as="geometry" />
         </mxCell>
         <mxCell id="EepgDoTvt16FePYuDDL8-54" value="Error Case Analysis for RCE Categories" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="155" width="910" height="70" as="geometry" />
+          <mxGeometry x="689.28" y="170" width="910" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
