@@ -11,7 +11,7 @@
           <mxGeometry x="-110" y="340" width="400" height="132.81" as="geometry" />
         </mxCell>
         <mxCell id="EepgDoTvt16FePYuDDL8-2" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;Prediction：&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="190" height="50" as="geometry" />
+          <mxGeometry x="380" y="270" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EepgDoTvt16FePYuDDL8-3" value="&lt;div&gt;Rendered &lt;span style=&quot;background-color: initial;&quot;&gt;Prediction：&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="330" height="50" as="geometry" />
