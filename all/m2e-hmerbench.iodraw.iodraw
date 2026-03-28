@@ -46,8 +46,8 @@
         <mxCell id="4myFzHKkVeaHecfF3S7_-21" value="&lt;b&gt;&lt;i&gt;Rendered：&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="4myFzHKkVeaHecfF3S7_-34" vertex="1">
           <mxGeometry x="270.5" y="140" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4myFzHKkVeaHecfF3S7_-42" value="M2E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="4myFzHKkVeaHecfF3S7_-34" vertex="1">
-          <mxGeometry x="606.27" y="-110" width="110" height="60" as="geometry" />
+        <mxCell id="4myFzHKkVeaHecfF3S7_-42" value="M&lt;sup&gt;2&lt;/sup&gt;E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="4myFzHKkVeaHecfF3S7_-34" vertex="1">
+          <mxGeometry x="611.27" y="-115" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4myFzHKkVeaHecfF3S7_-33" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1258.79" y="843" width="1363.4750000000001" height="210" as="geometry" />
