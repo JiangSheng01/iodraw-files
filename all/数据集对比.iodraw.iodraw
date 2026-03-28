@@ -53,13 +53,13 @@
           <mxGeometry x="2109.995" y="360" width="302.46" height="240" as="geometry" />
         </mxCell>
         <mxCell id="elJANvuKBfmZiwU5n3xU-30" value="2014" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="10" y="395" width="90" height="50" as="geometry" />
+          <mxGeometry x="53" y="395" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="elJANvuKBfmZiwU5n3xU-31" value="2016" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="10" y="610" width="90" height="50" as="geometry" />
+          <mxGeometry x="53" y="610" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="elJANvuKBfmZiwU5n3xU-32" value="2019" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="10" y="825" width="90" height="50" as="geometry" />
+          <mxGeometry x="53" y="825" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="elJANvuKBfmZiwU5n3xU-34" value="CROHME" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="200" height="60" as="geometry" />
